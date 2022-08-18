@@ -1,0 +1,22 @@
+{
+  "name": "PodWithSwiftUI",
+  "version": "0.1.0",
+  "summary": "A short description of PodWithSwiftUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mabayon/PodWithSwiftUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mabayon": "mabayon@student.42.fr"
+  },
+  "source": {
+    "git": "https://github.com/mabayon/PodWithSwiftUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodWithSwiftUI/Classes/**/*"
+}
