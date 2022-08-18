@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PodWithSwiftUI_Tests' do
+  pod 'PodWithSwiftUI', :path => '../'
+  
+  
+end
